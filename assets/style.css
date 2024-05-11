@@ -51,7 +51,6 @@ h1{
 .btn-success {
     width: 150px;
     font-size: 20px;
-
 }
 
 #text-1 {
@@ -76,6 +75,11 @@ b{
 }
 
 p{
+    color: white;
+    font-size: 20px;
+}
+
+span {
     color: white;
     font-size: 20px;
 }
