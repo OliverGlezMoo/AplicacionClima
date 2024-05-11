@@ -7,7 +7,7 @@ https://openweathermap.org/
 
 ## Interfaz
 
-Imagen principal, interfaz de busqueda
+Interfaz de busqueda
 ![image](https://github.com/OliverGlezMoo/AplicacionClima/assets/123349304/0d864a25-921d-4cb7-888a-f3d26cffae62)
 
 Impresión de la peticion de datos a la API
