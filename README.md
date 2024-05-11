@@ -17,4 +17,5 @@ Caso de error por ciudad no encontrada
 ![image](https://github.com/OliverGlezMoo/AplicacionClima/assets/123349304/75f9cf99-dd60-45ee-b2f2-682e4b5a7001)
 
 Advertencia por campo vacio
+
 ![image](https://github.com/OliverGlezMoo/AplicacionClima/assets/123349304/73c75eaf-3e56-41fc-9e80-2250f347965e)
